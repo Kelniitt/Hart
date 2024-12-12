@@ -11,10 +11,12 @@ Hart : :cat: or :dog: ?
 | Lab Colab | Model Quality |
 |:---------:|:-------------:|
 | Lab 01 | 0.81 |
-| Lab 02 | 0.96 |
+| Lab 02 | 0.97 |
 
 #### :one: Lab 01
 
 > ![image](https://github.com/user-attachments/assets/e6da6b43-e5b8-472d-a65b-ee850c2957ee)
 
 #### :two: Lab 02
+
+> ![image](https://github.com/user-attachments/assets/fabea222-ee6d-4580-93a9-a25193277353)
